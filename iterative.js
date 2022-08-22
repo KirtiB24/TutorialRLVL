@@ -19,4 +19,4 @@ do
 {
     console.log("hie");
     p++;
-}while (p<=5)
+}while (p<=0)
